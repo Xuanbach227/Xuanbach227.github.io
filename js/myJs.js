@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu Mây Xanh",
+  text1: "He luu Glucozo ",
   text2: "Có 1 điều muốn nói nè. Nhấp vô đi ạ ^^",
-  text3: "Ngủ ngon nhé Mây Xanh đáng yêu ơi ^^",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là đồng ý ngủ ngon ùi ó nha :v",
+  text3: "Khà khà khà ^^",
+  text4: "Nếu B khum trả lời mà thoát ra tức là đồng ý hát ùi ó nha",
   text5: "Không đâu",
   text6: "Dạ <3",
   text7: "Có gì muốn nói hông 😁",
   text8: "Gửi cho tớ <3",
   text9: "Oki nè, hí hí",
-  text10: "Tớ biết mà ^^ Thương 300.000",
+  text10: "Bách biết ",
   text11:
-    "Cuối tuần tới dẫn cậu đi chơi nha, lỡ không được thì tuần sau :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Cuối tuần tới dẫn B đi chơi nha, không được thì tuần sau Còn giờ thì chờ gì nữa mà ko inbox cho Bách nàooo",
   text12: "Okii lunn <3",
 };
 
